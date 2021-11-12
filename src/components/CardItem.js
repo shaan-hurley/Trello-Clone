@@ -28,6 +28,7 @@ class CardItem extends React.Component {
                 <Button
                   variant='text'
                   color='error'
+                  style={{ backgroundColor: 'transparent' }}
                   onMouseDown={(e) => this.handleDelete(e)}>
                   <Icon className='delete-button'>delete</Icon>
                 </Button>

@@ -12,11 +12,8 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-      </ul>
     </li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgments">Testing</a></li>
   </ol>
 </details>
 
@@ -78,12 +75,6 @@ Navigate to root directory and run this command
   npm run test
   ```
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-* 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 

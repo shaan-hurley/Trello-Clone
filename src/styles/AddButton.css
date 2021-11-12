@@ -12,9 +12,8 @@
 
 .add-card-form {
     overflow: visible;
-    min-height: 80px;
-    max-width: 250px;
-    padding: 6px 8px 2px;
+    min-height: 30px;
+    max-width: 200px;
 }
 
 .textarea {
@@ -23,6 +22,7 @@
     overflow: hidden;
     outline: none;
     border: none;
+    padding: 8px;
 }
 
 .add-submit-button {

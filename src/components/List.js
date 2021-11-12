@@ -45,6 +45,7 @@ class List extends React.Component {
               <Button
                 variant='text'
                 color='error'
+                style={{ backgroundColor: 'transparent' }}
                 onMouseDown={(e) => this.handleDelete(e)}>
                 <Icon className='delete-list-button'>delete</Icon>
               </Button>
