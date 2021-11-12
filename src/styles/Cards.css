@@ -1,0 +1,15 @@
+.card-container {
+    margin: 8px;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: row;
+    padding: 16px !important;
+    justify-content: space-between;
+}
+
+.delete-button {
+    cursor: pointer;
+    font-size: 10px;
+}
